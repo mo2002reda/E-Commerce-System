@@ -1,0 +1,12 @@
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\bin\Debug\net6.0\SkelandStore.Core.deps.json
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\bin\Debug\net6.0\SkelandStore.Core.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\bin\Debug\net6.0\SkelandStore.Core.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\SkelandStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\SkelandStore.Core.AssemblyInfoInputs.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\SkelandStore.Core.AssemblyInfo.cs
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\SkelandStore.Core.csproj.CoreCompileInputs.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\SkelandStore.Core.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\refint\SkelandStore.Core.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\SkelandStore.Core.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\ref\SkelandStore.Core.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Core.SkelandStore\obj\Debug\net6.0\SkelandStore.Core.csproj.AssemblyReference.cache

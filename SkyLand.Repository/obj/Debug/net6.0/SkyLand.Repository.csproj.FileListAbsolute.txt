@@ -1,0 +1,15 @@
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\bin\Debug\net6.0\SkyLand.Repository.deps.json
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\bin\Debug\net6.0\SkyLand.Repository.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\bin\Debug\net6.0\SkyLand.Repository.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\bin\Debug\net6.0\SkelandStore.Core.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\bin\Debug\net6.0\SkelandStore.Core.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand.Repository.csproj.AssemblyReference.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand.Repository.AssemblyInfoInputs.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand.Repository.AssemblyInfo.cs
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand.Repository.csproj.CoreCompileInputs.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand..E98AD779.Up2Date
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand.Repository.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\refint\SkyLand.Repository.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\SkyLand.Repository.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\SkyLand.Repository\obj\Debug\net6.0\ref\SkyLand.Repository.dll

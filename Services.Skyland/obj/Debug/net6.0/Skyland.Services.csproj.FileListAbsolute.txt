@@ -1,0 +1,15 @@
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\bin\Debug\net6.0\Skyland.Services.deps.json
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\bin\Debug\net6.0\Skyland.Services.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\bin\Debug\net6.0\Skyland.Services.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland.Services.AssemblyInfoInputs.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland.Services.AssemblyInfo.cs
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland.Services.csproj.CoreCompileInputs.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland.Services.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\refint\Skyland.Services.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland.Services.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\ref\Skyland.Services.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland.Services.csproj.AssemblyReference.cache
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\bin\Debug\net6.0\SkelandStore.Core.dll
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\bin\Debug\net6.0\SkelandStore.Core.pdb
+D:\C# Course\Asp Web\Api-Aliaa\Project\SkylandStore\Services.Skyland\obj\Debug\net6.0\Skyland..D3FDC6B6.Up2Date
